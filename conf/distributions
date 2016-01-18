@@ -1,0 +1,8 @@
+Origin: Seed
+Label: Seed
+Codename: trusty
+Suite: trusty
+Architectures: i386 amd64
+Components: main
+Description: Apt repository for Seed
+SignWith: 7998B1ED

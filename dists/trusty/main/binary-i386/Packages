@@ -1,0 +1,17 @@
+Package: python-txredis
+Version: 2.3
+License: UNKNOWN
+Vendor: none
+Architecture: all
+Maintainer: <colin@kraken>
+Installed-Size: 146
+Homepage: UNKNOWN
+Priority: extra
+Section: default
+Filename: pool/main/p/python-txredis/python-txredis_2.3_all.deb
+Size: 41106
+SHA256: 70d852361535aa019b33ab70689e8288b5fda49b586415136b3b5f4fcbefa1e3
+SHA1: a59db8bb4caa0175a494c374cefa5289ae6eab14
+MD5sum: 933acc0b9a8bdfe0d1b44f4d05c430b4
+Description: Python/Twisted client for Redis key-value store
+

@@ -1,0 +1,29 @@
+Origin: Seed
+Label: Seed
+Suite: trusty
+Codename: trusty
+Date: Mon, 18 Jan 2016 15:27:20 UTC
+Architectures: i386 amd64
+Components: main
+Description: Apt repository for Seed
+MD5Sum:
+ f551ee6859c1492f2be19e1e9b096c0d 482 main/binary-i386/Packages
+ 17e1795d5055d7721c7cb3b7dffef289 360 main/binary-i386/Packages.gz
+ 7607a97513735998283638449e2587e1 113 main/binary-i386/Release
+ 4c4cae9887f509e001f61921533b79d0 1694 main/binary-amd64/Packages
+ f6b4da87626cde5592aaf1046e484efe 802 main/binary-amd64/Packages.gz
+ b9cf69ced515c442f4fbabe4e8085f90 114 main/binary-amd64/Release
+SHA1:
+ eaeb6cf6e1db4bcf60b63ff485075ba2416bfe9d 482 main/binary-i386/Packages
+ 0b6d887a01ab94ce213cf682fd1bf51d61b77e1b 360 main/binary-i386/Packages.gz
+ 57f4452f0128a85e0fa0c99d10dd3cffd2e53882 113 main/binary-i386/Release
+ ecccd1784b18f327488780a0b47481f2496b59b6 1694 main/binary-amd64/Packages
+ f14c8e0a9599f389c96fe42cb85c586975f2b5ea 802 main/binary-amd64/Packages.gz
+ c03bb246928c19fa55ce5e735fbee3c0129a9a09 114 main/binary-amd64/Release
+SHA256:
+ 66e2a572796ee77db692f8dcde43e013fe3abec9faddfbec1187e318d33915ef 482 main/binary-i386/Packages
+ e5128bc394469341eefcfcb9fdfb3c5420773917b6a6ee9b8c377fc98d29d29d 360 main/binary-i386/Packages.gz
+ d5c14ce07d432634cf677c26b985ae9739473f8db48b7a1ca7d95983ade8e40d 113 main/binary-i386/Release
+ c4070ba666d10ec9861f714bba46ec3513e1f80d627b22c532d8b99f6917e6a9 1694 main/binary-amd64/Packages
+ 08635da789393efa9db06033ff0680f58c72a1e2d29d7c9eb5d0d593d973abc6 802 main/binary-amd64/Packages.gz
+ b1527f27e4d66ddfe35d1474b5a032bf1b6b2fb98a83ce9a4228cc04184053b1 114 main/binary-amd64/Release
