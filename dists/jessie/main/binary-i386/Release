@@ -1,0 +1,6 @@
+Archive: jessie
+Component: main
+Origin: Seed
+Label: Seed
+Architecture: i386
+Description: Apt repository for Seed

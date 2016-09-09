@@ -1,0 +1,18 @@
+Package: seed-xylem
+Version: 0.0.4
+License: MIT
+Vendor: none
+Architecture: amd64
+Maintainer: <colin@kraken>
+Installed-Size: 37
+Depends: python-twisted, python-yaml, python-openssl, python-crypto, python-rhumba
+Homepage: http://github.com/praekeltfoundation/seed-xylem
+Priority: extra
+Section: default
+Filename: pool/main/s/seed-xylem/seed-xylem_0.0.4_amd64.deb
+Size: 15330
+SHA256: a593d4b587c2b2fe5fef59e52e4c857d79f6a43615af232ffe63c6e14910c663
+SHA1: 5721bee966a93c8fc4db36cd2614a904ce7062df
+MD5sum: 83b2b8f4a330bd98288fe25b1af72e98
+Description: A distributed service for managing container databases and shared storage
+
