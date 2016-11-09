@@ -52,20 +52,20 @@ MD5sum: 9c72e948ab8bc6d12a006893353efa9e
 Description: Python/Twisted client for Redis key-value store
 
 Package: seed-xylem
-Version: 0.0.4
+Version: 0.0.5
 License: MIT
 Vendor: none
 Architecture: amd64
-Maintainer: <colin@kraken>
-Installed-Size: 37
+Maintainer: <jerith@kraken>
+Installed-Size: 62
 Depends: python-twisted, python-yaml, python-openssl, python-crypto, python-rhumba
 Homepage: http://github.com/praekeltfoundation/seed-xylem
 Priority: extra
 Section: default
-Filename: pool/main/s/seed-xylem/seed-xylem_0.0.4_amd64.deb
-Size: 15330
-SHA256: a593d4b587c2b2fe5fef59e52e4c857d79f6a43615af232ffe63c6e14910c663
-SHA1: 5721bee966a93c8fc4db36cd2614a904ce7062df
-MD5sum: 83b2b8f4a330bd98288fe25b1af72e98
+Filename: pool/main/s/seed-xylem/seed-xylem_0.0.5_amd64.deb
+Size: 21570
+SHA256: e6178b24149d504e749861f29cf80ee1a6491ea6dc43def21afa0f814a633d78
+SHA1: 6fde6d71c37fd7d99bca47ff4a55393a5212d361
+MD5sum: 9bee86d1d5b998bb3991e0c14e92d6a6
 Description: A distributed service for managing container databases and shared storage
 
