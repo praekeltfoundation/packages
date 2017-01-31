@@ -15,3 +15,22 @@ SHA1: 5b174ca7837c3d3b97cffa6e641047f283b8c5e7
 MD5sum: 9c72e948ab8bc6d12a006893353efa9e
 Description: Python/Twisted client for Redis key-value store
 
+Package: xe-guest-utilities
+Version: 7.0.0-24
+Architecture: all
+Maintainer: Citrix Systems, Inc. <www.citrix.com>
+Installed-Size: 3152
+Conflicts: xengmond
+Replaces: xengmond
+Priority: optional
+Section: main/admin
+Filename: pool/main/x/xe-guest-utilities/xe-guest-utilities_7.0.0-24_all.deb
+Size: 1108212
+SHA256: 3e25500d2fa66438c0b776b596f10892169ee87eb1c677ea3725468198b8aae9
+SHA1: 2d5e4640fc21fb15a3ca75535dc19447bddc25bf
+MD5sum: f59c349deabb286f418b061314c3dba1
+Description: Virtual Machine Monitoring Scripts
+ Scripts for monitoring Virtual Machines.
+ .
+ Writes distribution version information and IP address to XenStore.
+
