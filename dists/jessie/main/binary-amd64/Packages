@@ -1,19 +1,19 @@
 Package: docker-xylem
-Version: 0.1.4
+Version: 0.1.5
 License: MIT
 Vendor: none
 Architecture: amd64
-Maintainer: <colin@kraken>
-Installed-Size: 40
+Maintainer: <jerith@kraken>
+Installed-Size: 49
 Depends: python-twisted, python-yaml
 Homepage: http://github.com/praekeltfoundation/docker-xylem
 Priority: extra
 Section: default
-Filename: pool/main/d/docker-xylem/docker-xylem_0.1.4_amd64.deb
-Size: 15382
-SHA256: 33173f3c158385c48771eb3f6062c4ecccb5135c274858f852401b4329489780
-SHA1: 1d5197998f13fe82bff3a3e41d0614e75534f098
-MD5sum: b39df927c71c2678a40682a46e26c785
+Filename: pool/main/d/docker-xylem/docker-xylem_0.1.5_amd64.deb
+Size: 18596
+SHA256: 7caed3044d663f5a6d04d4de36152aaf0c33626f4014a9bf2338b0e13a3d5028
+SHA1: a9e055de6e7e4185badfe171cd03fe498900ec98
+MD5sum: 9d47b547fec6808ec2d65d4b0055782a
 Description: A docker storage plugin
 
 Package: python-rhumba
