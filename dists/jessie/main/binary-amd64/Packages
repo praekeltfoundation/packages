@@ -6,15 +6,16 @@ Architecture: amd64
 Maintainer: <colin@kraken>
 Installed-Size: 40
 Depends: python-twisted, python-yaml
-Homepage: http://github.com/praekeltfoundation/docker-xylem
-Priority: extra
 Section: default
-Filename: pool/main/d/docker-xylem/docker-xylem_0.1.4_amd64.deb
-Size: 15382
-SHA256: 33173f3c158385c48771eb3f6062c4ecccb5135c274858f852401b4329489780
-SHA1: 1d5197998f13fe82bff3a3e41d0614e75534f098
-MD5sum: b39df927c71c2678a40682a46e26c785
+Priority: extra
+Homepage: http://github.com/praekeltfoundation/docker-xylem
 Description: A docker storage plugin
+Filename: pool/jessie/main/d/docker-xylem/docker-xylem_0.1.4_amd64.deb
+MD5sum: 31cb963e3ec9dff8083f9e17502300bc
+SHA1: cabf477645f779f61923c362b2942d6c8b08b23f
+SHA256: 81e4611a04c304f90b4911dc9942e222cc6a6ed9c4cfa4b68d542c7a67bdf5f8
+SHA512: bae49536117dda2f65f2f3d504ddb4433e07821b0dad351e1099700c8035f8240a691c865af6b341632ce8b890f798bf76f587a93f038257ebef2c04b28c99c9
+Size: 16318
 
 Package: python-rhumba
 Version: 0.1.18
@@ -24,15 +25,16 @@ Architecture: amd64
 Maintainer: <colin@kraken>
 Installed-Size: 135
 Depends: python-twisted, python-yaml, python-openssl, python-redis, python-txredis
-Homepage: http://github.com/calston/rhumba
-Priority: extra
 Section: default
-Filename: pool/main/p/python-rhumba/python-rhumba_0.1.18_amd64.deb
-Size: 40276
-SHA256: 5c66bedf99f8a82300dfd606871f907d6e1edc95548d4bed2701f34780434b07
-SHA1: a91cea6eda413b9a0c1c50e61b594972a96d8cff
-MD5sum: becdf3c945bd022352ae3ed2e0f41d0b
+Priority: extra
+Homepage: http://github.com/calston/rhumba
 Description: An asynchronous job queue written in Twisted
+Filename: pool/jessie/main/p/python-rhumba/python-rhumba_0.1.18_amd64.deb
+MD5sum: becdf3c945bd022352ae3ed2e0f41d0b
+SHA1: a91cea6eda413b9a0c1c50e61b594972a96d8cff
+SHA256: 5c66bedf99f8a82300dfd606871f907d6e1edc95548d4bed2701f34780434b07
+SHA512: 3b06065145d07d0c512861c0eab15a2405533d9215676146f2a2a9efaa6ff0567f94134c257c444eedef10379cf9cd96d029c44f12aa6ecf03abdf1da1d54263
+Size: 40276
 
 Package: python-txredis
 Version: 2.3
@@ -41,15 +43,16 @@ Vendor: none
 Architecture: all
 Maintainer: <colin@kraken>
 Installed-Size: 146
-Homepage: UNKNOWN
-Priority: extra
 Section: default
-Filename: pool/main/p/python-txredis/python-txredis_2.3_all.deb
-Size: 42040
-SHA256: cbbd79be853263e73b26f3a49a617bbee8e8d887e701f664392ba0e8843e056a
-SHA1: 5b174ca7837c3d3b97cffa6e641047f283b8c5e7
-MD5sum: 9c72e948ab8bc6d12a006893353efa9e
+Priority: extra
+Homepage: UNKNOWN
 Description: Python/Twisted client for Redis key-value store
+Filename: pool/jessie/main/p/python-txredis/python-txredis_2.3_all.deb
+MD5sum: 9c72e948ab8bc6d12a006893353efa9e
+SHA1: 5b174ca7837c3d3b97cffa6e641047f283b8c5e7
+SHA256: cbbd79be853263e73b26f3a49a617bbee8e8d887e701f664392ba0e8843e056a
+SHA512: 3c2adc76d267e6bb01e0278ebe53c1c850ab978798a866181e57246d0779702f2243ec482c862b27a1d14257330ac83f52f00597bd29c0de2f702766bed551d4
+Size: 42040
 
 Package: seed-xylem
 Version: 0.0.5
@@ -59,15 +62,16 @@ Architecture: amd64
 Maintainer: <jerith@kraken>
 Installed-Size: 62
 Depends: python-twisted, python-yaml, python-openssl, python-crypto, python-rhumba
-Homepage: http://github.com/praekeltfoundation/seed-xylem
-Priority: extra
 Section: default
-Filename: pool/main/s/seed-xylem/seed-xylem_0.0.5_amd64.deb
-Size: 21570
-SHA256: e6178b24149d504e749861f29cf80ee1a6491ea6dc43def21afa0f814a633d78
-SHA1: 6fde6d71c37fd7d99bca47ff4a55393a5212d361
-MD5sum: 9bee86d1d5b998bb3991e0c14e92d6a6
+Priority: extra
+Homepage: http://github.com/praekeltfoundation/seed-xylem
 Description: A distributed service for managing container databases and shared storage
+Filename: pool/jessie/main/s/seed-xylem/seed-xylem_0.0.5_amd64.deb
+MD5sum: 95a49488fa472ef9fe294f850ab1c82a
+SHA1: 9c6e18f6d31c907768ad8cdfc1783f136dc4a28e
+SHA256: d8ccbecb5c765b83d32ca658a4d719e79abaf6ec5ed407356463089d0c397eca
+SHA512: cd9e66d7476e61e6babff30982668436ccb7b5194df7b1813ac47243c8c6c1f523070ddc3d6a94dd1b44f55e2a03358cde46100062a7dcfa5e03a784ea510da6
+Size: 22506
 
 Package: xe-guest-utilities
 Version: 7.0.0-24
@@ -76,15 +80,16 @@ Maintainer: Citrix Systems, Inc. <www.citrix.com>
 Installed-Size: 3152
 Conflicts: xengmond
 Replaces: xengmond
-Priority: optional
 Section: main/admin
-Filename: pool/main/x/xe-guest-utilities/xe-guest-utilities_7.0.0-24_all.deb
-Size: 1108212
-SHA256: 3e25500d2fa66438c0b776b596f10892169ee87eb1c677ea3725468198b8aae9
-SHA1: 2d5e4640fc21fb15a3ca75535dc19447bddc25bf
-MD5sum: f59c349deabb286f418b061314c3dba1
+Priority: optional
 Description: Virtual Machine Monitoring Scripts
  Scripts for monitoring Virtual Machines.
  .
  Writes distribution version information and IP address to XenStore.
+Filename: pool/jessie/main/x/xe-guest-utilities/xe-guest-utilities_7.0.0-24_all.deb
+MD5sum: f59c349deabb286f418b061314c3dba1
+SHA1: 2d5e4640fc21fb15a3ca75535dc19447bddc25bf
+SHA256: 3e25500d2fa66438c0b776b596f10892169ee87eb1c677ea3725468198b8aae9
+SHA512: 45d8856ce43e1649dfc3cbe84d33152a80911c43ecb3f618db6fc5b431320633047b6b8d2c5275e2c06475fcc15d3d8d1df4011220d2bc21aecbe87ec5595dfa
+Size: 1108212
 

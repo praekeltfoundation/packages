@@ -5,15 +5,16 @@ Vendor: none
 Architecture: all
 Maintainer: <colin@kraken>
 Installed-Size: 146
-Homepage: UNKNOWN
-Priority: extra
 Section: default
-Filename: pool/main/p/python-txredis/python-txredis_2.3_all.deb
-Size: 42040
-SHA256: cbbd79be853263e73b26f3a49a617bbee8e8d887e701f664392ba0e8843e056a
-SHA1: 5b174ca7837c3d3b97cffa6e641047f283b8c5e7
-MD5sum: 9c72e948ab8bc6d12a006893353efa9e
+Priority: extra
+Homepage: UNKNOWN
 Description: Python/Twisted client for Redis key-value store
+Filename: pool/trusty/main/p/python-txredis/python-txredis_2.3_all.deb
+MD5sum: 9c72e948ab8bc6d12a006893353efa9e
+SHA1: 5b174ca7837c3d3b97cffa6e641047f283b8c5e7
+SHA256: cbbd79be853263e73b26f3a49a617bbee8e8d887e701f664392ba0e8843e056a
+SHA512: 3c2adc76d267e6bb01e0278ebe53c1c850ab978798a866181e57246d0779702f2243ec482c862b27a1d14257330ac83f52f00597bd29c0de2f702766bed551d4
+Size: 42040
 
 Package: xe-guest-utilities
 Version: 7.0.0-24
@@ -22,15 +23,16 @@ Maintainer: Citrix Systems, Inc. <www.citrix.com>
 Installed-Size: 3152
 Conflicts: xengmond
 Replaces: xengmond
-Priority: optional
 Section: main/admin
-Filename: pool/main/x/xe-guest-utilities/xe-guest-utilities_7.0.0-24_all.deb
-Size: 1108212
-SHA256: 3e25500d2fa66438c0b776b596f10892169ee87eb1c677ea3725468198b8aae9
-SHA1: 2d5e4640fc21fb15a3ca75535dc19447bddc25bf
-MD5sum: f59c349deabb286f418b061314c3dba1
+Priority: optional
 Description: Virtual Machine Monitoring Scripts
  Scripts for monitoring Virtual Machines.
  .
  Writes distribution version information and IP address to XenStore.
+Filename: pool/trusty/main/x/xe-guest-utilities/xe-guest-utilities_7.0.0-24_all.deb
+MD5sum: f59c349deabb286f418b061314c3dba1
+SHA1: 2d5e4640fc21fb15a3ca75535dc19447bddc25bf
+SHA256: 3e25500d2fa66438c0b776b596f10892169ee87eb1c677ea3725468198b8aae9
+SHA512: 45d8856ce43e1649dfc3cbe84d33152a80911c43ecb3f618db6fc5b431320633047b6b8d2c5275e2c06475fcc15d3d8d1df4011220d2bc21aecbe87ec5595dfa
+Size: 1108212
 

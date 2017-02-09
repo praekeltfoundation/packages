@@ -1,6 +1,7 @@
 Archive: jessie
 Component: main
-Origin: Seed
-Label: Seed
+Origin: Freight
+Label: Freight
 Architecture: amd64
-Description: Apt repository for Seed
+Date: Thu, 09 Feb 2017 14:37:42 UTC
+Valid-Until: Tue, 30 Nov 2038 00:00:00 UTC

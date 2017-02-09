@@ -1,29 +1,36 @@
-Origin: Seed
-Label: Seed
+Origin: Freight
+Label: Freight
 Suite: trusty
 Codename: trusty
-Date: Tue, 31 Jan 2017 13:47:49 UTC
+Components: main 
 Architectures: i386 amd64
-Components: main
-Description: Apt repository for Seed
+Date: Thu, 09 Feb 2017 14:37:42 UTC
+Valid-Until: Tue, 30 Nov 2038 00:00:00 UTC
 MD5Sum:
- 878f50d68a87ea05aa7146f5480240fd 1110 main/binary-i386/Packages
- 10823572b3f2df9f31268d1e564df26b 656 main/binary-i386/Packages.gz
- 7607a97513735998283638449e2587e1 113 main/binary-i386/Release
- 89c4365408db3d63ba749630a0ceb142 2857 main/binary-amd64/Packages
- 8fb31f433f5830705f8f3be91e873da7 1243 main/binary-amd64/Packages.gz
- b9cf69ced515c442f4fbabe4e8085f90 114 main/binary-amd64/Release
+ 73ef44dcc0156f26a70e1c6cba26a5dc 162 main/binary-amd64/Release
+ c45fb439ea095c1262817a17d5a46ad2 3577 main/binary-amd64/Packages
+ 571cb1a734cd2afcf7c6f60cfb60fc3a 1673 main/binary-amd64/Packages.gz
+ a63a44a6da1db846f8848574e6ff3143 161 main/binary-i386/Release
+ 600c4bd92773aca45eb5dbe6c2ec073e 1398 main/binary-i386/Packages
+ e0ad061751aa42f64f6d011485993a6d 843 main/binary-i386/Packages.gz
 SHA1:
- 423a5e61bdd4bfe67a780aed5ee8a62548f8064c 1110 main/binary-i386/Packages
- 15c20fdff7338515f9bcf35a86101219fb1ef3e0 656 main/binary-i386/Packages.gz
- 57f4452f0128a85e0fa0c99d10dd3cffd2e53882 113 main/binary-i386/Release
- 33bca9d595e548f10eda508912efe91c08c80853 2857 main/binary-amd64/Packages
- de2bc33097ca1c0d32aaf533de070874272090d5 1243 main/binary-amd64/Packages.gz
- c03bb246928c19fa55ce5e735fbee3c0129a9a09 114 main/binary-amd64/Release
+ e99f61a1f310dcefa3e0c0bd53ae4c84bae7483f 162 main/binary-amd64/Release
+ 7265854494e6383d4b6e9293da7fb48ffb74d30f 3577 main/binary-amd64/Packages
+ ae548712dc577052dce80a147054ffb7ba0623c0 1673 main/binary-amd64/Packages.gz
+ 2bbe0ab3f3fc8b42ff1fbac1050acc83d57dc21a 161 main/binary-i386/Release
+ d7d536ba439768c3f2385029443ef840575cf51d 1398 main/binary-i386/Packages
+ cee6ce028b72ebd186815e91534d08560c37e78c 843 main/binary-i386/Packages.gz
 SHA256:
- cc36c751771c1431ec8293e22e63cafc87435cb080fcc7317ab62ba10e6b3e85 1110 main/binary-i386/Packages
- 4c88beb2321e957080bc5d4f735c58b00a64c56a71b6f40cb6768c2b7e797459 656 main/binary-i386/Packages.gz
- d5c14ce07d432634cf677c26b985ae9739473f8db48b7a1ca7d95983ade8e40d 113 main/binary-i386/Release
- 360734c3d29b4f8a6114c076fb67bf2fb7a92bf0f0947f4c58294e8c7659b54e 2857 main/binary-amd64/Packages
- 8d1c242b1248817054b00675f7ebaa0ba11364e242a7de9884773b1b02e5da51 1243 main/binary-amd64/Packages.gz
- b1527f27e4d66ddfe35d1474b5a032bf1b6b2fb98a83ce9a4228cc04184053b1 114 main/binary-amd64/Release
+ fed03ede95c0eec30e51265abe325dac00c57896a2558bb4d05ec36ce4047214 162 main/binary-amd64/Release
+ e56eb8812957bcb00f2b0ca43754e62f03f9d7d99101159208dcfde486d535f6 3577 main/binary-amd64/Packages
+ 92a1a081d0c453d3ee3834b73fe018c55463d786c817f085c4769443dac042de 1673 main/binary-amd64/Packages.gz
+ 433404f6608b76fc5e1c48931be41152b5ab40283c166eaac36534dc459e95e2 161 main/binary-i386/Release
+ 0f99cfb02faec711f649f6b5efebe03386a114bbabb83d4edb7469c84c4a9b84 1398 main/binary-i386/Packages
+ 7b1a8ec1728ae1aa0444ae564fcac18518d4495b188a84d432b089e8525cdebc 843 main/binary-i386/Packages.gz
+SHA512:
+ 7231f28f4d7263b4d6541389465c4b84a523f359edd1501a234fc1a1acaafd0c4102d6129af5993c9ec7358b0647da8cc9b54bb7ce3a108cb30cd00bfb6a048d 162 main/binary-amd64/Release
+ fa0f1aba6171ed0d7f915868e1b0e57cbe66338c6d966180a5cc695b8f6544100212a373b33336c1967e2f188d3df8ce18d46a8d262161089d827e4f2b6cbe43 3577 main/binary-amd64/Packages
+ 5f2ab787d42afe41bf6cf491b69300e7d7388c5666bde423939f59ff2974f5c0d8f53e6cb48e1b6b926ce0d64381da02a641e1ec16f5ff0598bf82f930ec02fe 1673 main/binary-amd64/Packages.gz
+ df552dbc648ac38c507a137863cc0bf16a2655c9e86d191aba55093bd9085bf35ebac821bb7b8de1392e60dd853ac32b9b912e74fa74cec02a3240f929006d7b 161 main/binary-i386/Release
+ 3698114c72b08214aeb0d1abbfbe2d820cbac061c2684cb9b7c13ce1c8da5bfb6e95ca009009cb667ebc2c0353b50e5c425b8dc8ec4a3c178cce1ece70a4a83c 1398 main/binary-i386/Packages
+ c63fe36ce4d959c90f9f5959102cc2aefd47401d0dcb43d215fbf9017d5dbfd83ea469897018b2f3f7b173c28dc7595f934bfca5c47fa5eae5bcf6af2ab17e80 843 main/binary-i386/Packages.gz
