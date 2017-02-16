@@ -74,6 +74,25 @@ SHA256: 88b8c973b21e4fdc80dbce90db08a1f19029367ed53f67ec5a588ead2a1a15bc
 SHA512: 1dbce52262d5dfaca5ab2d95897da8ed509e34b0279c47cf249fcd0910d14d22e21a4d32bedef3dfc48f2e4945210c01d1802846b8989343c5378ff3b7ee0da7
 Size: 19362
 
+Package: docker-xylem
+Version: 0.1.9
+License: MIT
+Vendor: none
+Architecture: amd64
+Maintainer: <jerith@kraken>
+Installed-Size: 52
+Depends: python-twisted, python-yaml
+Section: default
+Priority: extra
+Homepage: http://github.com/praekeltfoundation/docker-xylem
+Description: A docker storage plugin
+Filename: pool/trusty/main/d/docker-xylem/docker-xylem_0.1.9_amd64.deb
+MD5sum: 3e992fa8f7e1617705c416ae8c8c7f0f
+SHA1: 48026232214c9e7329137a56b5a27d4d16bef658
+SHA256: 854fc2564ace402b5205d412ce60027b78080b296022017566ef0ea47b9bb018
+SHA512: 623c7b4af51cb11dad8792ab9b43c5febba1acc77743565acb3b454899dcc995a636142700b3e6eb76d2137879f06012cc87320342c2c1532063990cf2b51ae0
+Size: 19484
+
 Package: python-rhumba
 Version: 0.1.18
 License: MIT
