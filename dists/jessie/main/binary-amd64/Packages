@@ -149,6 +149,25 @@ SHA256: d8ccbecb5c765b83d32ca658a4d719e79abaf6ec5ed407356463089d0c397eca
 SHA512: cd9e66d7476e61e6babff30982668436ccb7b5194df7b1813ac47243c8c6c1f523070ddc3d6a94dd1b44f55e2a03358cde46100062a7dcfa5e03a784ea510da6
 Size: 22506
 
+Package: seed-xylem
+Version: 0.0.6
+License: MIT
+Vendor: none
+Architecture: amd64
+Maintainer: <jerith@kraken>
+Installed-Size: 75
+Depends: python-twisted, python-yaml, python-openssl, python-crypto, python-rhumba
+Section: default
+Priority: extra
+Homepage: http://github.com/praekeltfoundation/seed-xylem
+Description: A distributed service for managing container databases and shared storage
+Filename: pool/jessie/main/s/seed-xylem/seed-xylem_0.0.6_amd64.deb
+MD5sum: 8728ca05787ee1b9c79e327e40705d61
+SHA1: fd7ad29c6b57f88161103582dc545e722acd7496
+SHA256: c83f52af65b663e84889206dd934badfaf8c5b751d5bed31d12bef5480386eae
+SHA512: 607c4388a6da38cfc6397950955c731734233cb7bb883434416c3a4d4c2d499b8bf5d7c4b2e022446264b0a18e80535807e6ca038dae357800d2482c645c98e1
+Size: 25674
+
 Package: xe-guest-utilities
 Version: 7.0.0-24
 Architecture: all
